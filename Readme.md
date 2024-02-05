@@ -1,0 +1,1 @@
+protoc -Igreet/proto --go_opt=module=github.com/Dhana777/grpc-pro --go_out=. --go-grpc_opt=module=github.com/Dhana777/grpc-pro --go-grpc_out=.  greet/proto/*.proto

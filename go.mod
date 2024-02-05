@@ -1,4 +1,4 @@
-module grpc-pro
+module github.com/Dhana777/grpc-pro
 
 go 1.21.3
 
