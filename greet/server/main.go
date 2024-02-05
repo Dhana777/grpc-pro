@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "/greet"
+	pb "github.com/Dhana777/grpc-pro/greet/proto"
 	"log"
 	"net"
 
